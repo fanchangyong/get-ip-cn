@@ -1,5 +1,5 @@
 # get-ip-cn
-Get your public ip from ip.cn
+Get your public ip from https://uc.cn/ip
 
 # Install
 
