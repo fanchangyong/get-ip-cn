@@ -6,5 +6,3 @@ module.exports = exports = async function getIp() {
   const arr = text.split(':')
   return arr[1];
 }
-
-getIp()
