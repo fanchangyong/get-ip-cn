@@ -1,7 +1,7 @@
 {
   "name": "get-ip-cn",
-  "version": "1.0.2",
-  "description": "get public ip from ip.cn",
+  "version": "1.1.0",
+  "description": "get public ip from uc.cn",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
